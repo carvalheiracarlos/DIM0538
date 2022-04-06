@@ -5,7 +5,8 @@
 - Use Maven to build and manage the project
 
 -----
-### [Maven Basics](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html):
+### [Maven Basics](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+### [Maven Spring](https://spring.io/guides/gs/maven/#initial)
 
 #### Create a Project
 > mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
